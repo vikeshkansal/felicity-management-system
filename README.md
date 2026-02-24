@@ -22,7 +22,7 @@ Set these variables:
 
 ```env
 MONGO_URI=
-appName
+appName=
 PORT=
 JWT_SECRET=
 ADMIN_EMAIL=
