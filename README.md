@@ -1,4 +1,4 @@
-# Kluster (Felicity Event Management System)
+# Felicity Event Management System
 
 Full-stack event management platform with role-based flows for Participant, Organizer, and Admin.
 
