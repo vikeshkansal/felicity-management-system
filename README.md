@@ -4,8 +4,8 @@ Full-stack event management platform with role-based flows for Participant, Orga
 
 ## Tech Stack
 
-- Frontend: Next.js 16, React 19, TypeScript, Tailwind, shadcn/ui
-- Backend: Express 5, TypeScript, Mongoose, Zod, JWT, bcrypt
+- Frontend: Next.js, React, TypeScript, shadcn/ui
+- Backend: Express, TypeScript, Mongoose, Zod, JWT, bcrypt
 - Database: MongoDB
 - Email: Nodemailer (SMTP)
 
