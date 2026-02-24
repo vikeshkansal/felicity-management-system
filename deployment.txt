@@ -1,3 +1,2 @@
-Deployment status: not deployed from this workspace session.
 Frontend URL: https://felicity-management-system-nu.vercel.app/
 Backend API URL: https://felicity-management-system-lgj4.onrender.com
